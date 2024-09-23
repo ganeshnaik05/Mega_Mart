@@ -15,4 +15,7 @@ public class Account {
     private String password;
     private String email;
 
+    public String getConfirmPassword() {
+        return "Success";
+    }
 }
